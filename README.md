@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Eliana Ferreira from 🇵🇾<br><br>- 🔭 I’m working as a Senior Mobile Developer at Willdom.<br>- 📚 I'm currently learning how to navigate life.<br>- ⚡ In my free time, I play padel and play the guitar, although I'm not very good at it.</p>
+<p align="left">I'm Eliana Ferreira from 🇵🇾<br><br>- 💻 I’m working as a Senior Mobile and Frontend Developer at Willdom.<br>- 👩‍🎓 Engineer in Computer Science.<br>- 📚 LOTR fan.<br>- ⚡ I'm a true believer that you don't need to be good at doing something to enjoy it, so I'm a mediocre guitar player and mediocre padel player.</p>
 
 ###
 
